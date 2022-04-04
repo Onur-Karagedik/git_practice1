@@ -1,6 +1,6 @@
 public class HelloWorld {
 
-    // Doing some work here. We will able to see the changes.
+    // Doing some work here. We will be able to see the changes.
 
 
     // We are doing great.
